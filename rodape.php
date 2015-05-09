@@ -3,7 +3,9 @@
 	
 	<footer class="footer">
       <div class="container-footer">
+      
         <p class="text-muted-footer">Estok WEB 2015. Todos os direitos reservados.</p>
+        
       </div>
     </footer>
     
